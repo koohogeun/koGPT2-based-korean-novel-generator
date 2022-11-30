@@ -1,0 +1,1 @@
+{"bos_token": "[BOS]", "eos_token": "[EOS]", "unk_token": "[UNK]", "pad_token": "[PAD]", "special_tokens_map_file": null, "name_or_path": "/home/curtiskim/curtis_dev/mesh-transformer-jax/tokenizer/v1.5_b/", "tokenizer_class": "PreTrainedTokenizerFast"}
