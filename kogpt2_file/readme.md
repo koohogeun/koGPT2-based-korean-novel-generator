@@ -1,1 +1,1 @@
-tokenizer, model, config
+tokenizer, config
